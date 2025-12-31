@@ -1,0 +1,2 @@
+welcome my name is bob
+i am practing using git and github
