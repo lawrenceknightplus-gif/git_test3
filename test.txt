@@ -1,2 +1,6 @@
 welcome my name is bob
 i am practing using git and github
+
+
+
+i am currently learning using the odin project and on week 1 of my journey to becoming a full stack dev
